@@ -3,6 +3,7 @@
 For windows machine => to advertise the device use code as given in advertise.js file.
 
 for linux machine => follow the steps below.
+
                     1. install avahi => sudo apt-get update
                                      => sudo apt-get install avahi-daemon
                                      => sudo apt-get install avahi-utils
